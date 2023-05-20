@@ -1,6 +1,5 @@
 # Proyectos-React-y-Javascript
-Proyectos web usando react y Javascript
 los ejercicicios son:
-un contador de clicks (sumaba cada click y podía reiniciarse)
-calculadora interactiva (puedes presionar los botones)
-Comentarios de usuarios renderizados.
+1)contador de clicks (suma cada click y tiene botón de reinicio)
+2)calculadora interactiva (realiza todas las operaciones mátemáticas básicas)
+3)letras favoritas de canciones favoritas con artista y fotografía.
