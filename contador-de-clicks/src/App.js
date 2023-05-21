@@ -1,7 +1,7 @@
 import './App.css';
 import Boton from './componentes/Boton';
 import Contador from './componentes/contador';
-import freeCodeCampLogo from './imagenes/freeCodeCamp-logo.png';
+import imagenLogo from './imagenes/imagen-logo.png';
 import { useState } from 'react';
 
 
@@ -24,9 +24,9 @@ function App() {
     <div className="App">
       <div className='freeCodeCamp-logo-contenedor'>
         <img
-        className='freeCodeCamp-logo'
-        src={freeCodeCampLogo}
-        alt= 'logo de freeCodeCamp'/>
+        className='mi-logo'
+        src={imagenLogo}
+        alt= 'logo'/>
 
       </div>
       <div className='contenedor-contador'>
